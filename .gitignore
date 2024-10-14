@@ -1,0 +1,9 @@
+
+# Ignore a specific folder in the same directory
+# Replace "folder_name" with the actual name of the folder you want to ignore
+Given Summaries (To compare output to)/
+
+# Ignore all CSV files in the same directory
+*.csv
+
+activity_data_processing.zip
